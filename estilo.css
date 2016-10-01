@@ -967,12 +967,12 @@ textarea {
 }
 
 /**
- * Correct the text style of placeholders in Chrome, Edge, and Safari.
+ * Correct the text style of placeholders in Chrome, Edge, and Safari.  
  */
 
 ::-webkit-input-placeholder {
   color: inherit;
-  opacity: 0.54;
+  opacity: 0.54;  
 }
 
 /**
